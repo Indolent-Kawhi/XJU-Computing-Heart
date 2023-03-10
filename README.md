@@ -55,9 +55,11 @@
     ├── 算法设计与分析
     ├── 编译原理
     └── 计算机组成原理
+
+PS：markdown 笔记使用 gitee 为图床，下载后使用 typora 等 MarkDown 阅读器可正常预览图片
 ```
 
-鸣谢：（TODO）
+鸣谢：[LYNBZ](https://github.com/LYNBZ1018) 、MagicalMogu etc.
 
 ------
 
