@@ -33,6 +33,7 @@
 ├── JAVA
 ├── 信号分析
 ├── 大学物理
+├── 大学物理实验
 ├── 思修
 ├── 操作系统
 ├── 数字电路
@@ -59,7 +60,7 @@
 PS：markdown 笔记使用 gitee 为图床，下载后使用 typora 等 MarkDown 阅读器可正常预览图片
 ```
 
-鸣谢：[LYNBZ](https://github.com/LYNBZ1018) 、MagicalMogu etc.
+鸣谢：[LYNBZ](https://github.com/LYNBZ1018) 、MagicalMogu、[SunSeaLucky](https://github.com/SunSeaLucky) etc.
 
 ------
 
