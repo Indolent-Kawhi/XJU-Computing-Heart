@@ -1,5 +1,7 @@
 # 👨‍💻新疆大学信息学院课程共享计划 ![RepoSize](https://img.shields.io/github/repo-size/Indolent-Kawhi/XJU-Computing-Heart?label=%E6%80%BB%E6%96%87%E4%BB%B6%E5%A4%A7%E5%B0%8F&style=plastic) ![](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png) 
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Indolent-Kawhi/XJU-Computing-Heart&type=Date)](https://star-history.com/#Indolent-Kawhi/XJU-Computing-Heart&Date)
+
 > 受各大高校 [清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT) [浙江大学](https://github.com/QSCTech/zju-icicles) 课程共享计划etc. 启发，创建本项目。
 >
 > 许可方法：[(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)![](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png) 
