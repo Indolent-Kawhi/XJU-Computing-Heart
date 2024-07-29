@@ -19,10 +19,13 @@
 ​	计划发展成为新疆大学信息工程学院的飞跃手册，提供 ⚠️【便利的 公开的 清晰的】⚠️【学业上，职业上，生活上，思想上】的⚠️「参考」
 
 ## 💡贡献方法：
-
-- [PR](https://www.cnblogs.com/lvhuayan/p/14532886.html)
-- [issue](https://github.com/Indolent-Kawhi/XJU-Computing-Heart/issues/new)
-- Email: indolentkawhi@aol.com
+### [Pull Request 推荐](https://www.cnblogs.com/lvhuayan/p/14532886.html)
+- 在 GitHub 网页端，点击右上角的“fork”按钮，将本仓库复制到自己的账户下。
+- 进入自己账户中的对应仓库，进行所需的修改。
+- 修改完成后，点击“New pull request”按钮，提交一个新的 PR。
+- 等待其他人审核和修改，然后将变更合并到原始仓库中。
+### [issue](https://github.com/Indolent-Kawhi/XJU-Computing-Heart/issues/new)
+### Email: hongminjie@zju.edu.cn
 
 ------
 
