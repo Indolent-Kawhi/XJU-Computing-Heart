@@ -24,9 +24,14 @@
 - 进入自己账户中的对应仓库，进行所需的修改。
 - 修改完成后，点击“New pull request”按钮，提交一个新的 PR。
 - 等待其他人审核和修改，然后将变更合并到原始仓库中。
-### [issue](https://github.com/Indolent-Kawhi/XJU-Computing-Heart/issues/new)
-### Email: hongminjie@zju.edu.cn
+### [issue](https://github.com/Indolent-Kawhi/XJU-Computing-Heart/issues/new) && Email: hongminjie@zju.edu.cn
 
+
+## 🖇️️强烈推荐
+### [XJU Course Wiki](https://sunsealucky.github.io/xju-course-wiki/software-engineering/intro/main/)
+#### https://sunsealucky.github.io/xju-course-wiki/software-engineering/intro/main/
+- 包含对于对课程的大致介绍，老师选择指南；面向期末的笔记总结
+- From [SunSeaLucky](https://github.com/SunSeaLucky) 
 ------
 
 ### 📚目录
